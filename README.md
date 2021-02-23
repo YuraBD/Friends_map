@@ -1,10 +1,10 @@
 # Friends_map
 friends_map.py is a module to build a map with friends locations of given twitter user.
-To use a progra start friends_map.py
+To use a progra run friends_map.py
 
 ## Usage
 ```zsh
-python friends_map.py
+>>> python friends_map.py
  * Serving Flask app "friends_map" (lazy loading)
  * Environment: development
  * Debug mode: on
