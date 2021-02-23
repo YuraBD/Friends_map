@@ -13,8 +13,8 @@ python friends_map.py
  * Debugger is active!
  * Debugger PIN: 594-770-578
 ```
-<img src="https://github.com/YuraBD/Friends_map/data/img1.png"/>
-<img src="https://github.com/YuraBD/Friends_map/data/img2.png"/>
+<img src="https://raw.githubusercontent.com/YuraBD/Friends_map/main/data/img1.png"/>
+<img src="https://github.com/YuraBD/Friends_map/blob/main/data/img2.png?raw=true"/>
 
 ## License
 
